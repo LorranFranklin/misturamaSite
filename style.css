@@ -21,7 +21,6 @@ body {
   .navbar-toggler {
     background-color: #fff;
   }
-
   .carousel-inner {
     height: 750px ; /* Defina a altura desejada */
     object-fit: cover;
@@ -62,8 +61,12 @@ body {
     background-color: #db3c0b;
   }
   
-  @media (max-width: 77px) {
+  @media (max-width: 770px) {
     .carousel-item img {
       height: 280px;
+    }
+    .carousel-inner {
+      height: 350px ; /* Defina a altura desejada */
+      object-fit: cover;
     }
   }
