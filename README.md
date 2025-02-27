@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Meu Portfólio" src="README.png" width="100%">
+  <img alt="projeto Meu Portfólio" src="img/README.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
