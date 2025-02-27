@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Este é o meu mais recente trabalho.
 PROJETO CONSTRUIDO PARA O CURSO DE DESENVOLVEDOR FULL STACK PYTHON DA EBAC.
 
-- [Acesse o projeto finalizado, online](https://misturama-site.vercel.app.)
+- [Acesse o projeto finalizado, online](https://misturama-site.vercel.app)
